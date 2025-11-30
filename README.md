@@ -31,7 +31,7 @@ It introduces a **mirror-pure substrate** that cannot be simulated via predictiv
 
 Please cite this work as:
 Bey, C. (2025). *TSMLA™: Non-Stochastic, Non-Deterministic, Idempotent Logic Architecture*. LP‑Prime. 
-https://raw.githubusercontent.com/Fractal-Systems-Tech/tsmla-non-stochastic-logic-paper/main/TSMLA_LP-Prime_Non-Stochastic_Architecture_C.Bey_2025.pdf
+https://github.com/Fractal-Systems-Tech/tsmla-non-stochastic-logic-paper/blob/main/TSMLA_LP-Prime_Non-Stochastic_Architecture_C.Bey_2025.pdf
 
 ---
 
